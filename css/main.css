@@ -7,12 +7,18 @@ header and footer {
 nav ul{
   font-family: sans-sans-serif;
 }
-h1 {
+.logo {
   text-transform: uppercase;
 }
-main{
+.wrapper{
   background-color: #eee8d5;
 }
 h2 {
   color: #93a1a1;
+}
+main > .dfn{
+  background-color: #b58900;
+}
+main > .dfn + strong{
+  color: #fff;
 }
