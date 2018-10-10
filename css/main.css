@@ -19,6 +19,14 @@ h2 {
 main > .dfn{
   background-color: #b58900;
 }
-main > .dfn + strong{
+main > .dfn + strong {
   color: #fff;
 }
+.highlight{
+  background-color: #719e07;
+}
+
+ol + li {
+  color: #719e47;
+}
+ol
