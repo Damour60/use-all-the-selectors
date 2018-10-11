@@ -34,7 +34,19 @@ main > .dfn {
   color: #fff;
 }
 
-.highlight {
+#favs {
+  background-color: #719e07;
+}
+
+#index {
+  background-color: #719e07;
+}
+
+#history {
+  background-color: #719e07;
+}
+
+#contact {
   background-color: #719e07;
 }
 
