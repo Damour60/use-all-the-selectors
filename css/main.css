@@ -1,11 +1,14 @@
 body {
   background-color: #fdf6e3;
 }
-header and footer {
-  font-size: 1.55rem
+header {
+  font-size: 1.5rem
+}
+footer{
+  font-size: 1.5rem
 }
 nav ul{
-  font-family: sans-sans-serif;
+  font-family: sans-serif;
 }
 .logo {
   text-transform: uppercase;
